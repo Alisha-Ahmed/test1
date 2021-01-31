@@ -1,0 +1,73 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  color: #232323;
+  background: #F8F8F8;
+}
+
+nav li:last-child a {
+  background: orange;
+}
+
+nav li:last-child a nav li a:hover {
+  background-color: darkgoldenrod;
+}
+
+nav li a {
+  transition: all 0.3s ease-in-out;
+}
+
+nav li a:hover {
+  color: darkgoldenrod;
+}
+
+section.main {
+  background: #F8F8F8;
+}
+
+.size {
+  background: #F8F8F8;
+}
+
+.add-to-cart {
+  border: 2px solid orange;
+  color: orange;
+  transition: all 0.3s ease-in-out;
+}
+
+.add-to-cart:hover {
+  background: orange;
+  border-color: #FFF;
+  color: #FFF;
+}
+
+.btn-primary {
+  background: orange;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+  background: #b23301;
+}
+
+section.cart {
+  background: #F8F8F8;
+}
+
+section.cart .amount {
+  color: green;
+}
+
+section.login {
+  background: #F8F8F8;
+  min-height: calc(100vh-86px);
+}
+
+section.login a {
+  color: orange;
+}
+
+section.login a:hover {
+  color: #b23301;
+}
+
