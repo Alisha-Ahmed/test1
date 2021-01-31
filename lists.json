@@ -1,0 +1,66 @@
+[{
+    "_id": {
+        "$oid": "5eee651f739f8c674fd736ee"
+      },
+    "name":"Web Programming and Internet Technologies",
+    "image":"webtb1.jpg",
+    "price":"300",
+    "edition":"2nd Edition"
+},{
+    "_id": {
+        "$oid": "5eee6671a27a66807cf2bea3"
+      },
+    "name":"Web Programming Step by Step",
+    "image":"webtb2.jpg",
+    "price":"545",
+    "edition":"2nd Edition"
+},{
+    "_id": {
+        "$oid": "5eee6692a27a66807cf2bea4"
+      },
+    "name":"Semantic Web Programming",
+    "image":"webtb3.jpg",
+    "price":"999",
+    "edition":"2nd Edition"
+},{
+    "_id": {
+        "$oid": "5eee6692a27a66807cf2bea5"
+      },
+    "name":"Web Design Playground",
+    "image":"webtb4.jpg",
+    "price":"1250",
+    "edition":"2nd Edition"
+},{
+    "_id": {
+        "$oid": "5eee66a5a27a66807cf2bea6"
+      },
+    "name":"Web Programming",
+    "image":"webtb5.jpg",
+    "price":"600",
+    "edition":"2nd Edition"
+},{
+    "_id": {
+        "$oid": "5eee66c4a27a66807cf2bea7"
+      },
+    "name":"Learn Web Development with Python",
+    "image":"webtb6.jpg",
+    "price":"750",
+    "edition":"2nd Edition"
+},{
+    "_id": {
+        "$oid": "5eee66cfa27a66807cf2bea8"
+      },
+    "name":"building the Web of Things",
+    "image":"webtb6.jpg",
+    "price":"500",
+    "edition":"2nd Edition"
+},{
+    "_id": {
+        "$oid": "5eee6692a27a66807cf2bea9"
+      },
+    "name":"Level Up with your WEB apps with GO",
+    "image":"webtb8.jpg",
+    "price":"600",
+    "edition":"2nd Edition"
+}
+]
